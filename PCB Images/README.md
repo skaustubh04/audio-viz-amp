@@ -4,7 +4,7 @@ File added for convenient preview of images.
 ![pcd_2d_populated](PCB_2D_Populated.png)
 
 ### PCB 2D View
-![pcb_2d_view]('PCB_2D_View.png')
+![pcb_2d_view](PCB_2D_View.png)
 
 ### PCB
 ![pcb](PCB.jpg)
